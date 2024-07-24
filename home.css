@@ -1049,7 +1049,7 @@ footer p {
     }
 
     .signin {
-        width: 80%;
+        width: fit-content;
         left: 10%;
         padding: 30px;
         height: fit-content;
